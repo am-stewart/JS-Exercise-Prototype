@@ -129,10 +129,10 @@ console.log(mykayla.play());
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Global Binding - this is when 'this' has no context to go with it so it would display the whole window 
+  2. Implicit Binding - this is when you have created an object/method and 'this' refers to that object
+  3. New Binding - This is when you create a new object and 'this' now refers to the new object
+  4. Explicit Binding - This is when you explicitly put in what you want 'this' to refer to
 */
 
 
